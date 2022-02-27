@@ -25,6 +25,7 @@ header .container {
 }
 
 header .logo {
+  cursor: pointer;
   margin-left: 5px;
   color: var(--vermelho);
   font-family: "Arial Black", Times;
